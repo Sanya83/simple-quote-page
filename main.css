@@ -12,9 +12,8 @@ body {
   background: url('assets/freedom.jpg') no-repeat center;
   background-size: cover;
   color: #333;
+}
 
-}
-}
 .wrapper {
   padding-top: 4rem;
   width: 90%;
